@@ -1,2 +1,2 @@
-# mypy
-My Python packages and scripts
+# spellbook
+Personal packages and scripts
